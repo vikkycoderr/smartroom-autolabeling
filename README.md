@@ -30,6 +30,11 @@ smartroom-autolabeling/
 │           └── rec_20260601_003/
 │               ├── metadata.json
 │               └── streams/
+|                   ├── camera_main.mp4
+|                   ├── mic_array.wav
+|                   ├── env_sensor_01.csv
+|                   ├── motion_sensor_01.csv
+                    
 ├── src/
 │   ├── adapters/
 │   │   ├── base_adapter.py
