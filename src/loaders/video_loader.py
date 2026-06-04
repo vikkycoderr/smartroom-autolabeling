@@ -2,15 +2,7 @@ from pathlib import Path
 
 
 def load_video_stream(recording_dir: Path, stream_id: str, stream_info: dict) -> dict:
-    """
-    Week 1 video loader.
-
-    Uses metadata to:
-    1. Find the video file path
-    2. Check if the file exists
-    3. Open the video with OpenCV
-    4. Read actual FPS, frame count, and resolution
-    """
+   
 
     relative_path = stream_info.get("path")
     full_path = recording_dir / relative_path
@@ -38,7 +30,7 @@ def load_video_stream(recording_dir: Path, stream_id: str, stream_info: dict) ->
         import cv2
     except ImportError:
         result["status"] = "loaded_without_opencv"
-        result["note"] = "OpenCV is not installed. File exists, but video properties were not checked."
+        result["note"] = "OpenCV is not installed."
         return result
 
     cap = cv2.VideoCapture(str(full_path))
