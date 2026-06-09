@@ -1,0 +1,72 @@
+{
+  "recording_id": "rec_20260609_010",
+  "space": "smart_room_1",
+  "start_time": "2026-06-09T15:07:29.438404-04:00",
+  "end_time": "2026-06-09T15:08:09.091675-04:00",
+  "duration_seconds": 30,
+  "schema_version": "0.1",
+  "streams": {
+    "camera_main": {
+      "modality": "video",
+      "path": "streams/camera_main.mp4",
+      "codec": "h264",
+      "resolution": [
+        640,
+        480
+      ],
+      "fps": 30,
+      "frame_count": 900,
+      "timestamps_path": "streams/camera_main_timestamps.csv"
+    },
+    "custom_board_i2c": {
+      "modality": "environmental",
+      "path": "streams/custom_board_i2c.csv",
+      "sample_rate_hz": 1,
+      "fields": [
+        "temperature_c",
+        "humidity_pct",
+        "pressure_hpa",
+        "gas_ohm",
+        "light_lux",
+        "color_temperature_k",
+        "red",
+        "green",
+        "blue",
+        "accel_x_mps2",
+        "accel_y_mps2",
+        "accel_z_mps2",
+        "mag_x_ut",
+        "mag_y_ut",
+        "mag_z_ut"
+      ]
+    },
+    "mic_array": {
+      "modality": "audio",
+      "path": "streams/mic_array.wav",
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    "mcp3008_mic": {
+      "modality": "audio_level",
+      "path": "streams/mcp3008_mic.csv",
+      "sample_rate_hz": 20,
+      "fields": [
+        "voltage"
+      ]
+    },
+    "mcp3008_audio": {
+      "modality": "audio",
+      "path": "streams/mcp3008_audio.wav",
+      "sample_rate_hz": 28119,
+      "channels": 1,
+      "note": "MAX9814 mic via MCP3008 ADC, raw spidev; AC-coupled, jitter-corrected (resampled from per-sample timestamps) and band-passed 80-5000 Hz. Software-timed, so the rate is approximate."
+    },
+    "radar_ops243": {
+      "modality": "motion",
+      "path": "streams/radar_ops243.csv",
+      "fields": [
+        "raw"
+      ]
+    }
+  }
+}
