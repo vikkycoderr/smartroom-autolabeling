@@ -1,0 +1,117 @@
+{
+  "status": "warning",
+  "session_dir": "/home/smartroom/CityOS/data/day_03_2026-06-09/rec_20260609_013",
+  "recording_id": "rec_20260609_013",
+  "start_time": "2026-06-09T15:16:33.768152-04:00",
+  "end_time": "2026-06-09T15:16:43.333495-04:00",
+  "duration_seconds": 5,
+  "files": {
+    "streams/camera_main.mp4": {
+      "exists": true,
+      "size_bytes": 1658214
+    },
+    "streams/custom_board_i2c.csv": {
+      "exists": true,
+      "size_bytes": 654
+    },
+    "streams/mic_array.wav": {
+      "exists": true,
+      "size_bytes": 160044
+    },
+    "streams/mcp3008_mic.csv": {
+      "exists": true,
+      "size_bytes": 2155
+    },
+    "streams/mcp3008_audio.wav": {
+      "exists": true,
+      "size_bytes": 421698
+    },
+    "streams/radar_ops243.csv": {
+      "exists": true,
+      "size_bytes": 23
+    }
+  },
+  "video": {
+    "duration_seconds": 5.0,
+    "frame_count": 68,
+    "avg_frame_rate": "68/5",
+    "width": 640,
+    "height": 480,
+    "file_size_bytes": 1658214
+  },
+  "audio": {
+    "streams/mic_array.wav": {
+      "file_size_bytes": 160044,
+      "duration_seconds": 5.0,
+      "sample_rate_hz": 16000,
+      "channels": 1,
+      "frames": 80000,
+      "mean_volume_db": -51.2,
+      "max_volume_db": -38.9
+    },
+    "streams/mcp3008_audio.wav": {
+      "file_size_bytes": 421698,
+      "duration_seconds": 7.541,
+      "sample_rate_hz": 27958,
+      "channels": 1,
+      "frames": 210827,
+      "mean_volume_db": -32.0,
+      "max_volume_db": -18.4
+    }
+  },
+  "camera_timestamps": {
+    "rows": 150,
+    "parsed_frames": 150,
+    "first_timestamp_seconds": 0.0,
+    "last_timestamp_seconds": 4.966667
+  },
+  "csv": {
+    "streams/custom_board_i2c.csv": {
+      "rows": 5,
+      "header": [
+        "timestamp_seconds",
+        "temperature_c",
+        "humidity_pct",
+        "pressure_hpa",
+        "gas_ohm",
+        "light_lux",
+        "color_temperature_k",
+        "red",
+        "green",
+        "blue",
+        "accel_x_mps2",
+        "accel_y_mps2",
+        "accel_z_mps2",
+        "mag_x_ut",
+        "mag_y_ut",
+        "mag_z_ut"
+      ]
+    },
+    "streams/mcp3008_mic.csv": {
+      "rows": 152,
+      "header": [
+        "timestamp_seconds",
+        "voltage"
+      ]
+    },
+    "streams/radar_ops243.csv": {
+      "rows": 0,
+      "header": [
+        "timestamp_seconds",
+        "raw"
+      ]
+    }
+  },
+  "findings": [
+    {
+      "severity": "warning",
+      "check": "frame_count_mismatch",
+      "message": "Video has 68 frame(s); timestamp CSV has 150 row(s)"
+    },
+    {
+      "severity": "warning",
+      "check": "radar_sensor",
+      "message": "radar_ops243.csv has no data rows. This may mean the radar was not streaming."
+    }
+  ]
+}
