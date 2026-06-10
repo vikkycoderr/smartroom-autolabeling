@@ -1,12 +1,12 @@
 # Video files
-*.mp4
+#*.mp4
 *.mov
 *.avi
 *.flv
 *.mkv
 
 # Audio files
-*.wav
+#*.wav
 *.mp3
 *.aac
 *.flac
