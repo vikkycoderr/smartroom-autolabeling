@@ -57,7 +57,7 @@ outputs/*.jsonl
 outputs/*.csv
 
 # Data
-data/**/*.mp4
-data/**/*.wav
-data/**/*.mov
-data/**/*.avi
+#data/**/*.mp4
+#data/**/*.wav
+#data/**/*.mov
+#data/**/*.avi
