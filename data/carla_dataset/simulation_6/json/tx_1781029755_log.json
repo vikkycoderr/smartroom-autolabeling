@@ -1,0 +1,352 @@
+[
+  {
+    "claim": "vehicle at (-64.6, 24.5) speed 1.0 m/s yaw=0.2 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=2 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "imu"
+    ],
+    "evidence": [
+      "traces/tx_1781029755/frame_000000.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781029755",
+    "checkpoint_id": "chk_0000",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": 0.15919795632362366,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 2.0,
+    "wetness": 0.0,
+    "imu_accelerometer": {
+      "x": -3.795471731840467e-36,
+      "y": 1.448828266157172e-36,
+      "z": 9.8100004196167
+    },
+    "imu_gyroscope": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "imu_compass": 1.5735749006271362,
+    "npc_vehicles": 20,
+    "npc_walkers": 10
+  },
+  {
+    "claim": "vehicle at (-64.6, 24.5) speed 2.0 m/s yaw=0.2 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=2 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "imu"
+    ],
+    "evidence": [
+      "traces/tx_1781029755/frame_000001.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781029755",
+    "checkpoint_id": "chk_0001",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": 0.15919795632362366,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 2.0,
+    "wetness": 0.0,
+    "imu_accelerometer": {
+      "x": 6457.6591796875,
+      "y": -2465.052978515625,
+      "z": -59.99000930786133
+    },
+    "imu_gyroscope": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "imu_compass": 1.5735749006271362,
+    "npc_vehicles": 20,
+    "npc_walkers": 10
+  },
+  {
+    "claim": "vehicle at (-64.6, 24.5) speed 2.9 m/s yaw=0.2 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=2 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "imu"
+    ],
+    "evidence": [
+      "traces/tx_1781029755/frame_000002.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781029755",
+    "checkpoint_id": "chk_0002",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": 0.15919795632362366,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 2.0,
+    "wetness": 0.0,
+    "imu_accelerometer": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.010015487670898438
+    },
+    "imu_gyroscope": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "imu_compass": 1.5735749006271362,
+    "npc_vehicles": 20,
+    "npc_walkers": 10
+  },
+  {
+    "claim": "vehicle at (-64.6, 24.5) speed 0.7 m/s yaw=0.2 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=2 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "imu"
+    ],
+    "evidence": [
+      "traces/tx_1781029755/frame_000003.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781029755",
+    "checkpoint_id": "chk_0003",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": 0.15919795632362366,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 2.0,
+    "wetness": 0.0,
+    "imu_accelerometer": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 15.211183547973633
+    },
+    "imu_gyroscope": {
+      "x": 3.010355840160628e-06,
+      "y": -4.5841811697755475e-06,
+      "z": -6.9196239849134145e-09
+    },
+    "imu_compass": 1.5735749006271362,
+    "npc_vehicles": 20,
+    "npc_walkers": 10
+  },
+  {
+    "claim": "vehicle at (-64.6, 24.5) speed 0.2 m/s yaw=0.2 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=2 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "imu"
+    ],
+    "evidence": [
+      "traces/tx_1781029755/frame_000004.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781029755",
+    "checkpoint_id": "chk_0004",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": 0.15919795632362366,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 2.0,
+    "wetness": 0.0,
+    "imu_accelerometer": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 28.1123046875
+    },
+    "imu_gyroscope": {
+      "x": -9.930265605362365e-07,
+      "y": 1.5247876206103683e-07,
+      "z": 1.4217421684392662e-10
+    },
+    "imu_compass": 1.5735749006271362,
+    "npc_vehicles": 20,
+    "npc_walkers": 10
+  },
+  {
+    "claim": "vehicle at (-64.6, 24.5) speed 0.5 m/s yaw=0.1 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=2 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "imu"
+    ],
+    "evidence": [
+      "traces/tx_1781029755/frame_000005.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781029755",
+    "checkpoint_id": "chk_0005",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": 0.13859425485134125,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 2.0,
+    "wetness": 0.0,
+    "imu_accelerometer": {
+      "x": 0.6744230389595032,
+      "y": -0.034692469984292984,
+      "z": 13.328883171081543
+    },
+    "imu_gyroscope": {
+      "x": -0.0026541240513324738,
+      "y": -0.008201457560062408,
+      "z": -0.02141464687883854
+    },
+    "imu_compass": 1.5732152462005615,
+    "npc_vehicles": 20,
+    "npc_walkers": 10
+  },
+  {
+    "claim": "vehicle at (-64.5, 24.5) speed 1.8 m/s yaw=-0.2 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=2 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "imu"
+    ],
+    "evidence": [
+      "traces/tx_1781029755/frame_000006.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781029755",
+    "checkpoint_id": "chk_0006",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": -0.1823730617761612,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 2.0,
+    "wetness": 0.0,
+    "imu_accelerometer": {
+      "x": 12.029199600219727,
+      "y": -0.6313616037368774,
+      "z": 9.488351821899414
+    },
+    "imu_gyroscope": {
+      "x": -0.0019399747252464294,
+      "y": -0.007952673360705376,
+      "z": -0.07535528391599655
+    },
+    "imu_compass": 1.5676133632659912,
+    "npc_vehicles": 20,
+    "npc_walkers": 10
+  },
+  {
+    "claim": "vehicle at (-64.3, 24.5) speed 2.7 m/s yaw=-0.7 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=2 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "imu"
+    ],
+    "evidence": [
+      "traces/tx_1781029755/frame_000007.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781029755",
+    "checkpoint_id": "chk_0007",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": -0.7015991806983948,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 2.0,
+    "wetness": 0.0,
+    "imu_accelerometer": {
+      "x": 10.844120979309082,
+      "y": -0.5347802042961121,
+      "z": 9.049793243408203
+    },
+    "imu_gyroscope": {
+      "x": -0.0008606762858107686,
+      "y": -0.0013408763334155083,
+      "z": -0.10364459455013275
+    },
+    "imu_compass": 1.5585510730743408,
+    "npc_vehicles": 20,
+    "npc_walkers": 10
+  },
+  {
+    "claim": "vehicle at (-64.0, 24.4) speed 3.4 m/s yaw=-1.9 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=2 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "imu"
+    ],
+    "evidence": [
+      "traces/tx_1781029755/frame_000008.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781029755",
+    "checkpoint_id": "chk_0008",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": -1.911865472793579,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 2.0,
+    "wetness": 0.0,
+    "imu_accelerometer": {
+      "x": 7.222310543060303,
+      "y": -1.6842191219329834,
+      "z": 9.25194263458252
+    },
+    "imu_gyroscope": {
+      "x": -0.0060745240189135075,
+      "y": 0.0013394257985055447,
+      "z": -0.2805196940898895
+    },
+    "imu_compass": 1.5374280214309692,
+    "npc_vehicles": 20,
+    "npc_walkers": 10
+  },
+  {
+    "claim": "vehicle at (-63.6, 24.4) speed 4.0 m/s yaw=-3.3 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=2 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "imu"
+    ],
+    "evidence": [
+      "traces/tx_1781029755/frame_000009.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781029755",
+    "checkpoint_id": "chk_0009",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": -3.2850959300994873,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 2.0,
+    "wetness": 0.0,
+    "imu_accelerometer": {
+      "x": 6.395895957946777,
+      "y": -1.1516947746276855,
+      "z": 9.479169845581055
+    },
+    "imu_gyroscope": {
+      "x": 0.0006867122719995677,
+      "y": 0.0015173578867688775,
+      "z": -0.23929472267627716
+    },
+    "imu_compass": 1.513460636138916,
+    "npc_vehicles": 20,
+    "npc_walkers": 10
+  }
+]

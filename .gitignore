@@ -1,12 +1,12 @@
 # Video files
-*.mp4
+#*.mp4
 *.mov
 *.avi
 *.flv
 *.mkv
 
 # Audio files
-*.wav
+#*.wav
 *.mp3
 *.aac
 *.flac
@@ -57,7 +57,7 @@ outputs/*.jsonl
 outputs/*.csv
 
 # Data
-data/**/*.mp4
-data/**/*.wav
-data/**/*.mov
-data/**/*.avi
+#data/**/*.mp4
+#data/**/*.wav
+#data/**/*.mov
+#data/**/*.avi
