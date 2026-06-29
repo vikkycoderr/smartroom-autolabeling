@@ -1,0 +1,48 @@
+[
+  {
+    "claim": "vehicle at (4.7, 130.1) speed 6.8 m/s yaw=-170.6 weather cloudiness=5 precipitation=0 wind_intensity=10 fog_density=40 wetness=0",
+    "space": "Carla/Maps/Town10HD_Opt",
+    "modalities": [
+      "rgb_camera_intersection",
+      "rgb_camera_intersection_2",
+      "lidar",
+      "semseg_camera_intersection",
+      "radar_intersection"
+    ],
+    "evidence": [
+      "traces/tx_1781709436/frame_000000.png"
+    ],
+    "evidence2": [
+      "traces/tx_1781709436/frame2_000000.png"
+    ],
+    "confidence": 1.0,
+    "privacy_level": "local_context",
+    "trace_id": "tx_1781709436",
+    "checkpoint_id": "chk_0000",
+    "weather": "ClearNoon",
+    "seed": 42,
+    "yaw": -170.59495544433594,
+    "precipitation": 0.0,
+    "wind_intensity": 10.0,
+    "fog_density": 40.0,
+    "wetness": 0.0,
+    "npc_vehicles": 4,
+    "npc_walkers": 3,
+    "lidar_path": "traces/tx_1781709436/lidar_000000.npy",
+    "lidar_point_count": 1280,
+    "lidar_mean_depth": -4.871078968048096,
+    "semseg_path": "traces/tx_1781709436/semseg/semseg_000000.png",
+    "radar_detection_count": 150,
+    "radar_mean_depth": 26.093943150838218,
+    "radar_mean_velocity": 0.0,
+    "traffic_light_state": "Red",
+    "semseg_vehicle_pixels": 2259,
+    "semseg_pedestrian_pixels": 0,
+    "time_of_day": "dawn",
+    "hour": 7,
+    "condition": "foggy",
+    "traffic_density": "light",
+    "start_mode": "moving",
+    "scenario_config": "output_config.json"
+  }
+]
