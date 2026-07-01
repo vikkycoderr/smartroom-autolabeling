@@ -9,10 +9,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000000.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000000.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -39,10 +39,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000001.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000001.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -69,10 +69,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000002.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000002.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -99,10 +99,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000003.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000003.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -129,10 +129,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000004.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000004.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -159,10 +159,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000005.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000005.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -189,10 +189,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000006.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000006.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -219,10 +219,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000007.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000007.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -249,10 +249,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000008.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000008.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -279,10 +279,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000009.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000009.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -309,10 +309,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000010.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000010.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -339,10 +339,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000011.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000011.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -369,10 +369,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000012.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000012.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -399,10 +399,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000013.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000013.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -429,10 +429,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000014.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000014.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -459,10 +459,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000015.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000015.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -489,10 +489,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000016.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000016.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -519,10 +519,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000017.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000017.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -549,10 +549,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000018.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000018.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -579,10 +579,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000019.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000019.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -609,10 +609,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000020.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000020.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -639,10 +639,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000021.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000021.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -669,10 +669,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000022.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000022.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -699,10 +699,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000023.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000023.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -729,10 +729,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000024.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000024.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -759,10 +759,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000025.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000025.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -795,10 +795,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000026.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000026.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -825,10 +825,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000027.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000027.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -855,10 +855,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000028.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000028.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -885,10 +885,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000029.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000029.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -915,10 +915,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000030.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000030.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -945,10 +945,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000031.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000031.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -975,10 +975,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000032.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000032.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1005,10 +1005,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000033.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000033.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1041,10 +1041,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000034.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000034.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1077,10 +1077,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000035.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000035.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1113,10 +1113,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000036.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000036.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1149,10 +1149,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000037.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000037.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1185,10 +1185,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000038.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000038.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1221,10 +1221,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000039.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000039.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1257,10 +1257,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000040.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000040.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1293,10 +1293,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000041.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000041.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1329,10 +1329,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000042.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000042.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
@@ -1365,10 +1365,10 @@
     "frame_cam2": "traces/scenario_2_1782931006/frame2_000043.png",
     "semseg_path": "traces/scenario_2_1782931006/semseg/semseg_000043.png",
     "crosswalk_roi": {
-      "x_min": 360,
-      "x_max": 510,
-      "y_min": 265,
-      "y_max": 430
+      "x_min": 280,
+      "x_max": 360,
+      "y_min": 70,
+      "y_max": 475
     },
     "crosswalk_pedestrian_pixels": 0,
     "crosswalk_pedestrian_fraction": 0.0,
